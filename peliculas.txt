@@ -1,0 +1,6 @@
+West Side Story (2021)|2021|Un clásico musical de amor y rivalidad.|0.0|0|src/Imagenes/West Side Story (2021).jpg|156|PG-13|Inglés||Ansel Elgort,Rachel Zegler
+District 9|2009|Extraterrestres refugiados en Sudáfrica.|0.0|0|src/Imagenes/District 9.jpg|112|R|Inglés||Sharlto Copley,Jason Cope
+Maléfica|2014|La historia de la villana de La Bella Durmiente.|0.0|0|src/Imagenes/Maléfica.jpg|97|PG|Inglés||Angelina Jolie,Elle Fanning
+Prisioneros|2013|algo|0.0|0|src/Imagenes/Prisioneros.jpg|123|R|Inglés||Hola,Mundo
+pelicula2|2000|Una sinopsis|0.0|0|C:\Users\David\Pictures\CatalogoPeliculas\src\Imagenes\En busca de la felicidad.jpg|100|PG-13|Francés||un numbre,otro nombre
+PRUEBA2|2000|Una nueva pelicula|0.0|0|C:\Users\David\Pictures\CatalogoPeliculas\src\Imagenes\Chicago.jpg|123|PG-13|Francés||hola,mundo
